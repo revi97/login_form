@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">login_form</string>
+    <string name="login_here">LOGIN HERE</string>
+    <string name="login_button">LOGIN</string>
+</resources>
